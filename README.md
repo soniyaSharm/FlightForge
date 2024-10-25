@@ -14,7 +14,7 @@ A Flask-based application for generating and processing random flight data JSON 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/soniyaSharm/FlightForge.git
+   `git clone https://github.com/soniyaSharm/FlightForge.git`
    cd FlightForge
 
 ## Create a virtual environment
