@@ -1,0 +1,569 @@
+[
+  {
+    "date": "2021-02-09T22:52:12",
+    "origin_city": "City_9",
+    "destination_city": "City_69",
+    "flight_duration_secs": 7343,
+    "passengers_on_board": 38
+  },
+  {
+    "date": "2021-02-08T05:07:30",
+    "origin_city": "City_9",
+    "destination_city": "City_78",
+    "flight_duration_secs": 10659,
+    "passengers_on_board": 235
+  },
+  {
+    "date": "2021-02-13T13:53:01",
+    "origin_city": "City_9",
+    "destination_city": "City_106",
+    "flight_duration_secs": 8241,
+    "passengers_on_board": 130
+  },
+  {
+    "date": "2021-02-17T22:04:10",
+    "origin_city": "City_9",
+    "destination_city": "City_124",
+    "flight_duration_secs": 6085,
+    "passengers_on_board": 273
+  },
+  {
+    "date": "2021-02-18T21:44:21",
+    "origin_city": "City_9",
+    "destination_city": "City_116",
+    "flight_duration_secs": 14277,
+    "passengers_on_board": 274
+  },
+  {
+    "date": "2021-02-12T08:50:09",
+    "origin_city": "City_9",
+    "destination_city": "City_18",
+    "flight_duration_secs": 8245,
+    "passengers_on_board": 142
+  },
+  {
+    "date": "2021-02-07T21:04:35",
+    "origin_city": "City_9",
+    "destination_city": "City_34",
+    "flight_duration_secs": 8285,
+    "passengers_on_board": 156
+  },
+  {
+    "date": "2021-02-25T06:43:24",
+    "origin_city": "City_9",
+    "destination_city": "City_52",
+    "flight_duration_secs": 15396,
+    "passengers_on_board": 168
+  },
+  {
+    "date": "2021-02-17T21:48:12",
+    "origin_city": "City_9",
+    "destination_city": "City_0",
+    "flight_duration_secs": 9463,
+    "passengers_on_board": 29
+  },
+  {
+    "date": "2021-02-19T17:43:38",
+    "origin_city": "City_9",
+    "destination_city": "City_20",
+    "flight_duration_secs": 13656,
+    "passengers_on_board": 203
+  },
+  {
+    "date": "2021-02-16T14:08:24",
+    "origin_city": "City_9",
+    "destination_city": "City_25",
+    "flight_duration_secs": 16840,
+    "passengers_on_board": 54
+  },
+  {
+    "date": "2021-02-23T14:24:13",
+    "origin_city": "City_9",
+    "destination_city": "City_87",
+    "flight_duration_secs": 5085,
+    "passengers_on_board": 215
+  },
+  {
+    "date": "2021-02-07T12:17:50",
+    "origin_city": "City_9",
+    "destination_city": "City_86",
+    "flight_duration_secs": 3946,
+    "passengers_on_board": 2
+  },
+  {
+    "date": "2021-02-14T10:55:31",
+    "origin_city": "City_9",
+    "destination_city": "City_119",
+    "flight_duration_secs": 16231,
+    "passengers_on_board": 109
+  },
+  {
+    "date": "2021-02-01T07:02:59",
+    "origin_city": "City_9",
+    "destination_city": "City_35",
+    "flight_duration_secs": 14190,
+    "passengers_on_board": 65
+  },
+  {
+    "date": "2021-02-27T17:19:50",
+    "origin_city": "City_9",
+    "destination_city": "City_107",
+    "flight_duration_secs": 14131,
+    "passengers_on_board": 103
+  },
+  {
+    "date": "2021-02-13T12:11:49",
+    "origin_city": "City_9",
+    "destination_city": "City_81",
+    "flight_duration_secs": 9914,
+    "passengers_on_board": 50
+  },
+  {
+    "date": "2021-02-06T18:27:53",
+    "origin_city": "City_9",
+    "destination_city": "City_12",
+    "flight_duration_secs": 7948,
+    "passengers_on_board": 210
+  },
+  {
+    "date": "2021-02-22T14:16:30",
+    "origin_city": "City_9",
+    "destination_city": "City_35",
+    "flight_duration_secs": 16140,
+    "passengers_on_board": 220
+  },
+  {
+    "date": "2021-02-20T07:06:51",
+    "origin_city": "City_9",
+    "destination_city": "City_46",
+    "flight_duration_secs": 9791,
+    "passengers_on_board": 37
+  },
+  {
+    "date": "2021-02-03T23:45:56",
+    "origin_city": "City_9",
+    "destination_city": "City_71",
+    "flight_duration_secs": 7591,
+    "passengers_on_board": 231
+  },
+  {
+    "date": "2021-02-17T15:25:44",
+    "origin_city": "City_9",
+    "destination_city": "City_7",
+    "flight_duration_secs": 9373,
+    "passengers_on_board": 237
+  },
+  {
+    "date": "2021-02-14T11:44:45",
+    "origin_city": "City_9",
+    "destination_city": "City_50",
+    "flight_duration_secs": 15449,
+    "passengers_on_board": 78
+  },
+  {
+    "date": "2021-02-20T20:13:57",
+    "origin_city": "City_9",
+    "destination_city": "City_2",
+    "flight_duration_secs": 3817,
+    "passengers_on_board": 76
+  },
+  {
+    "date": "2021-02-14T09:25:13",
+    "origin_city": "City_9",
+    "destination_city": "City_30",
+    "flight_duration_secs": 9950,
+    "passengers_on_board": 260
+  },
+  {
+    "date": "2021-02-22T07:28:36",
+    "origin_city": "City_9",
+    "destination_city": "City_84",
+    "flight_duration_secs": 7222,
+    "passengers_on_board": 188
+  },
+  {
+    "date": "2021-02-26T17:35:54",
+    "origin_city": "City_9",
+    "destination_city": "City_84",
+    "flight_duration_secs": 11883,
+    "passengers_on_board": 132
+  },
+  {
+    "date": "2021-02-22T20:45:31",
+    "origin_city": "City_9",
+    "destination_city": "City_69",
+    "flight_duration_secs": 9994,
+    "passengers_on_board": 299
+  },
+  {
+    "date": "2021-02-15T00:42:35",
+    "origin_city": "City_9",
+    "destination_city": "City_83",
+    "flight_duration_secs": 15528,
+    "passengers_on_board": 269
+  },
+  {
+    "date": "2021-02-11T15:56:21",
+    "origin_city": "City_9",
+    "destination_city": "City_5",
+    "flight_duration_secs": 10679,
+    "passengers_on_board": 62
+  },
+  {
+    "date": "2021-02-07T03:37:25",
+    "origin_city": "City_9",
+    "destination_city": "City_51",
+    "flight_duration_secs": 11196,
+    "passengers_on_board": 257
+  },
+  {
+    "date": "2021-02-18T06:46:18",
+    "origin_city": "City_9",
+    "destination_city": "City_63",
+    "flight_duration_secs": 16696,
+    "passengers_on_board": 1
+  },
+  {
+    "date": "2021-02-22T07:04:27",
+    "origin_city": "City_9",
+    "destination_city": "City_82",
+    "flight_duration_secs": 6561,
+    "passengers_on_board": 261
+  },
+  {
+    "date": "2021-02-17T09:05:55",
+    "origin_city": "City_9",
+    "destination_city": "City_117",
+    "flight_duration_secs": 8104,
+    "passengers_on_board": 100
+  },
+  {
+    "date": "2021-02-19T00:46:50",
+    "origin_city": "City_9",
+    "destination_city": "City_94",
+    "flight_duration_secs": 5690,
+    "passengers_on_board": 117
+  },
+  {
+    "date": "2021-02-13T14:52:46",
+    "origin_city": "City_9",
+    "destination_city": "City_113",
+    "flight_duration_secs": 8815,
+    "passengers_on_board": null
+  },
+  {
+    "date": "2021-02-19T19:13:38",
+    "origin_city": "City_9",
+    "destination_city": "City_45",
+    "flight_duration_secs": 8050,
+    "passengers_on_board": 187
+  },
+  {
+    "date": "2021-02-25T09:10:38",
+    "origin_city": "City_9",
+    "destination_city": "City_83",
+    "flight_duration_secs": 12266,
+    "passengers_on_board": 85
+  },
+  {
+    "date": "2021-02-07T19:15:31",
+    "origin_city": "City_9",
+    "destination_city": "City_19",
+    "flight_duration_secs": 7116,
+    "passengers_on_board": 243
+  },
+  {
+    "date": "2021-02-24T17:16:02",
+    "origin_city": "City_9",
+    "destination_city": "City_69",
+    "flight_duration_secs": 4486,
+    "passengers_on_board": 181
+  },
+  {
+    "date": "2021-02-02T10:09:20",
+    "origin_city": "City_9",
+    "destination_city": "City_0",
+    "flight_duration_secs": 11408,
+    "passengers_on_board": 213
+  },
+  {
+    "date": "2021-02-27T07:15:08",
+    "origin_city": "City_9",
+    "destination_city": "City_100",
+    "flight_duration_secs": 13572,
+    "passengers_on_board": 204
+  },
+  {
+    "date": "2021-02-16T01:39:51",
+    "origin_city": "City_9",
+    "destination_city": "City_63",
+    "flight_duration_secs": 13615,
+    "passengers_on_board": 102
+  },
+  {
+    "date": "2021-02-09T10:20:07",
+    "origin_city": "City_9",
+    "destination_city": "City_60",
+    "flight_duration_secs": 16468,
+    "passengers_on_board": 69
+  },
+  {
+    "date": "2021-02-08T13:05:54",
+    "origin_city": "City_9",
+    "destination_city": "City_8",
+    "flight_duration_secs": 9710,
+    "passengers_on_board": 17
+  },
+  {
+    "date": "2021-02-24T07:09:36",
+    "origin_city": "City_9",
+    "destination_city": "City_6",
+    "flight_duration_secs": 13877,
+    "passengers_on_board": 96
+  },
+  {
+    "date": "2021-02-25T18:23:02",
+    "origin_city": "City_9",
+    "destination_city": "City_97",
+    "flight_duration_secs": 15710,
+    "passengers_on_board": 244
+  },
+  {
+    "date": "2021-02-27T02:26:12",
+    "origin_city": "City_9",
+    "destination_city": "City_36",
+    "flight_duration_secs": 17429,
+    "passengers_on_board": 71
+  },
+  {
+    "date": "2021-02-08T08:58:57",
+    "origin_city": "City_9",
+    "destination_city": "City_105",
+    "flight_duration_secs": 17359,
+    "passengers_on_board": 265
+  },
+  {
+    "date": "2021-02-14T18:27:16",
+    "origin_city": "City_9",
+    "destination_city": "City_50",
+    "flight_duration_secs": 11690,
+    "passengers_on_board": 27
+  },
+  {
+    "date": "2021-02-10T04:52:29",
+    "origin_city": "City_9",
+    "destination_city": "City_68",
+    "flight_duration_secs": 10304,
+    "passengers_on_board": 74
+  },
+  {
+    "date": "2021-02-24T23:31:26",
+    "origin_city": "City_9",
+    "destination_city": "City_82",
+    "flight_duration_secs": 13604,
+    "passengers_on_board": 124
+  },
+  {
+    "date": "2021-02-08T09:28:00",
+    "origin_city": "City_9",
+    "destination_city": "City_34",
+    "flight_duration_secs": 17301,
+    "passengers_on_board": 65
+  },
+  {
+    "date": "2021-02-08T14:24:41",
+    "origin_city": "City_9",
+    "destination_city": "City_58",
+    "flight_duration_secs": 10477,
+    "passengers_on_board": 66
+  },
+  {
+    "date": "2021-02-24T11:28:11",
+    "origin_city": "City_9",
+    "destination_city": "City_56",
+    "flight_duration_secs": 13073,
+    "passengers_on_board": 191
+  },
+  {
+    "date": "2021-02-02T11:07:48",
+    "origin_city": "City_9",
+    "destination_city": "City_72",
+    "flight_duration_secs": 16468,
+    "passengers_on_board": 25
+  },
+  {
+    "date": "2021-02-05T05:51:34",
+    "origin_city": "City_9",
+    "destination_city": "City_58",
+    "flight_duration_secs": 12082,
+    "passengers_on_board": 35
+  },
+  {
+    "date": "2021-02-03T18:55:53",
+    "origin_city": "City_9",
+    "destination_city": "City_113",
+    "flight_duration_secs": 15240,
+    "passengers_on_board": 256
+  },
+  {
+    "date": "2021-02-25T19:12:12",
+    "origin_city": "City_9",
+    "destination_city": "City_124",
+    "flight_duration_secs": 9908,
+    "passengers_on_board": 64
+  },
+  {
+    "date": "2021-02-08T23:08:04",
+    "origin_city": "City_9",
+    "destination_city": "City_110",
+    "flight_duration_secs": 10072,
+    "passengers_on_board": 234
+  },
+  {
+    "date": "2021-02-01T18:11:41",
+    "origin_city": "City_9",
+    "destination_city": "City_12",
+    "flight_duration_secs": 17274,
+    "passengers_on_board": 105
+  },
+  {
+    "date": "2021-02-25T07:19:50",
+    "origin_city": "City_9",
+    "destination_city": "City_71",
+    "flight_duration_secs": 5279,
+    "passengers_on_board": 273
+  },
+  {
+    "date": "2021-02-03T00:59:52",
+    "origin_city": "City_9",
+    "destination_city": "City_40",
+    "flight_duration_secs": 16860,
+    "passengers_on_board": 172
+  },
+  {
+    "date": "2021-02-06T17:20:21",
+    "origin_city": "City_9",
+    "destination_city": "City_37",
+    "flight_duration_secs": 16761,
+    "passengers_on_board": 268
+  },
+  {
+    "date": "2021-02-22T15:03:27",
+    "origin_city": "City_9",
+    "destination_city": "City_40",
+    "flight_duration_secs": 11010,
+    "passengers_on_board": 210
+  },
+  {
+    "date": "2021-02-16T06:33:45",
+    "origin_city": "City_9",
+    "destination_city": "City_41",
+    "flight_duration_secs": 15959,
+    "passengers_on_board": 154
+  },
+  {
+    "date": "2021-02-14T04:29:08",
+    "origin_city": "City_9",
+    "destination_city": "City_81",
+    "flight_duration_secs": 10987,
+    "passengers_on_board": 155
+  },
+  {
+    "date": "2021-02-16T18:19:14",
+    "origin_city": "City_9",
+    "destination_city": "City_76",
+    "flight_duration_secs": 16654,
+    "passengers_on_board": 231
+  },
+  {
+    "date": "2021-02-01T19:21:47",
+    "origin_city": "City_9",
+    "destination_city": "City_68",
+    "flight_duration_secs": 6883,
+    "passengers_on_board": 293
+  },
+  {
+    "date": "2021-02-21T04:55:54",
+    "origin_city": "City_9",
+    "destination_city": "City_34",
+    "flight_duration_secs": 13676,
+    "passengers_on_board": 252
+  },
+  {
+    "date": "2021-02-08T07:00:35",
+    "origin_city": "City_9",
+    "destination_city": "City_72",
+    "flight_duration_secs": 10132,
+    "passengers_on_board": 77
+  },
+  {
+    "date": "2021-02-25T03:28:01",
+    "origin_city": "City_9",
+    "destination_city": "City_123",
+    "flight_duration_secs": 17789,
+    "passengers_on_board": 56
+  },
+  {
+    "date": "2021-02-16T19:45:54",
+    "origin_city": "City_9",
+    "destination_city": "City_1",
+    "flight_duration_secs": 13121,
+    "passengers_on_board": 50
+  },
+  {
+    "date": "2021-02-26T17:50:08",
+    "origin_city": "City_9",
+    "destination_city": "City_80",
+    "flight_duration_secs": 6779,
+    "passengers_on_board": 201
+  },
+  {
+    "date": "2021-02-22T14:32:22",
+    "origin_city": "City_9",
+    "destination_city": "City_59",
+    "flight_duration_secs": 16076,
+    "passengers_on_board": 242
+  },
+  {
+    "date": "2021-02-20T10:34:14",
+    "origin_city": "City_9",
+    "destination_city": "City_107",
+    "flight_duration_secs": 14485,
+    "passengers_on_board": 108
+  },
+  {
+    "date": "2021-02-16T16:24:59",
+    "origin_city": "City_9",
+    "destination_city": "City_98",
+    "flight_duration_secs": 17323,
+    "passengers_on_board": 93
+  },
+  {
+    "date": "2021-02-18T07:48:36",
+    "origin_city": "City_9",
+    "destination_city": "City_66",
+    "flight_duration_secs": 10278,
+    "passengers_on_board": 6
+  },
+  {
+    "date": "2021-02-01T03:12:26",
+    "origin_city": "City_9",
+    "destination_city": "City_56",
+    "flight_duration_secs": 11089,
+    "passengers_on_board": 123
+  },
+  {
+    "date": "2021-02-23T20:33:08",
+    "origin_city": "City_9",
+    "destination_city": "City_16",
+    "flight_duration_secs": 7687,
+    "passengers_on_board": 141
+  },
+  {
+    "date": "2021-02-24T14:47:47",
+    "origin_city": "City_9",
+    "destination_city": "City_65",
+    "flight_duration_secs": 17819,
+    "passengers_on_board": 260
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "date": "2023-05-01T01:38:07",
+    "origin_city": "City_92",
+    "destination_city": "City_91",
+    "flight_duration_secs": 7653,
+    "passengers_on_board": 54
+  },
+  {
+    "date": "2023-05-27T07:15:14",
+    "origin_city": "City_92",
+    "destination_city": "City_97",
+    "flight_duration_secs": 7611,
+    "passengers_on_board": 112
+  },
+  {
+    "date": "2023-05-12T12:01:01",
+    "origin_city": "City_92",
+    "destination_city": "City_82",
+    "flight_duration_secs": 15208,
+    "passengers_on_board": 210
+  },
+  {
+    "date": "2023-05-25T11:45:43",
+    "origin_city": "City_92",
+    "destination_city": "City_118",
+    "flight_duration_secs": 10062,
+    "passengers_on_board": 202
+  },
+  {
+    "date": "2023-05-01T13:49:32",
+    "origin_city": "City_92",
+    "destination_city": "City_75",
+    "flight_duration_secs": 10275,
+    "passengers_on_board": 277
+  },
+  {
+    "date": "2023-05-13T08:46:53",
+    "origin_city": "City_92",
+    "destination_city": "City_17",
+    "flight_duration_secs": 7686,
+    "passengers_on_board": 9
+  },
+  {
+    "date": "2023-05-22T15:52:09",
+    "origin_city": "City_92",
+    "destination_city": "City_19",
+    "flight_duration_secs": 14075,
+    "passengers_on_board": 261
+  },
+  {
+    "date": "2023-05-14T14:09:34",
+    "origin_city": "City_92",
+    "destination_city": "City_71",
+    "flight_duration_secs": 14883,
+    "passengers_on_board": 148
+  },
+  {
+    "date": "2023-05-15T19:41:10",
+    "origin_city": "City_92",
+    "destination_city": "City_84",
+    "flight_duration_secs": 4288,
+    "passengers_on_board": 15
+  },
+  {
+    "date": "2023-05-12T09:40:13",
+    "origin_city": "City_92",
+    "destination_city": "City_1",
+    "flight_duration_secs": 3810,
+    "passengers_on_board": 189
+  },
+  {
+    "date": "2023-05-21T16:16:38",
+    "origin_city": "City_92",
+    "destination_city": "City_33",
+    "flight_duration_secs": 15493,
+    "passengers_on_board": 289
+  },
+  {
+    "date": "2023-05-01T07:11:19",
+    "origin_city": "City_92",
+    "destination_city": "City_1",
+    "flight_duration_secs": 8543,
+    "passengers_on_board": 145
+  },
+  {
+    "date": "2023-05-21T22:06:29",
+    "origin_city": "City_92",
+    "destination_city": "City_81",
+    "flight_duration_secs": 10507,
+    "passengers_on_board": 191
+  },
+  {
+    "date": "2023-05-13T21:05:42",
+    "origin_city": "City_92",
+    "destination_city": "City_58",
+    "flight_duration_secs": 13923,
+    "passengers_on_board": 260
+  },
+  {
+    "date": "2023-05-12T07:18:16",
+    "origin_city": "City_92",
+    "destination_city": "City_98",
+    "flight_duration_secs": 5784,
+    "passengers_on_board": 37
+  },
+  {
+    "date": "2023-05-30T06:53:48",
+    "origin_city": "City_92",
+    "destination_city": "City_19",
+    "flight_duration_secs": 12048,
+    "passengers_on_board": 300
+  },
+  {
+    "date": "2023-05-03T22:19:58",
+    "origin_city": "City_92",
+    "destination_city": "City_96",
+    "flight_duration_secs": 4800,
+    "passengers_on_board": 218
+  },
+  {
+    "date": "2023-05-26T14:47:47",
+    "origin_city": "City_92",
+    "destination_city": "City_24",
+    "flight_duration_secs": 7713,
+    "passengers_on_board": 88
+  },
+  {
+    "date": "2023-05-15T08:56:39",
+    "origin_city": "City_92",
+    "destination_city": "City_30",
+    "flight_duration_secs": 16486,
+    "passengers_on_board": 90
+  },
+  {
+    "date": "2023-05-06T05:45:31",
+    "origin_city": "City_92",
+    "destination_city": "City_84",
+    "flight_duration_secs": 17184,
+    "passengers_on_board": 82
+  },
+  {
+    "date": "2023-05-23T07:53:41",
+    "origin_city": "City_92",
+    "destination_city": "City_79",
+    "flight_duration_secs": 9354,
+    "passengers_on_board": 222
+  },
+  {
+    "date": "2023-05-03T18:51:15",
+    "origin_city": "City_92",
+    "destination_city": "City_4",
+    "flight_duration_secs": 15138,
+    "passengers_on_board": 42
+  },
+  {
+    "date": "2023-05-23T22:33:18",
+    "origin_city": "City_92",
+    "destination_city": "City_6",
+    "flight_duration_secs": 15029,
+    "passengers_on_board": 101
+  },
+  {
+    "date": "2023-05-06T22:54:45",
+    "origin_city": "City_92",
+    "destination_city": "City_83",
+    "flight_duration_secs": 15907,
+    "passengers_on_board": 278
+  },
+  {
+    "date": "2023-05-26T12:47:00",
+    "origin_city": "City_92",
+    "destination_city": "City_59",
+    "flight_duration_secs": 9667,
+    "passengers_on_board": 281
+  },
+  {
+    "date": "2023-05-13T01:27:39",
+    "origin_city": "City_92",
+    "destination_city": "City_113",
+    "flight_duration_secs": 17979,
+    "passengers_on_board": 226
+  },
+  {
+    "date": "2023-05-12T16:20:40",
+    "origin_city": "City_92",
+    "destination_city": "City_28",
+    "flight_duration_secs": 13577,
+    "passengers_on_board": 30
+  },
+  {
+    "date": "2023-05-03T20:11:34",
+    "origin_city": "City_92",
+    "destination_city": "City_112",
+    "flight_duration_secs": 13243,
+    "passengers_on_board": 68
+  },
+  {
+    "date": "2023-05-21T20:57:16",
+    "origin_city": "City_92",
+    "destination_city": "City_109",
+    "flight_duration_secs": 3994,
+    "passengers_on_board": 275
+  },
+  {
+    "date": "2023-05-14T12:47:35",
+    "origin_city": "City_92",
+    "destination_city": "City_49",
+    "flight_duration_secs": 10074,
+    "passengers_on_board": 258
+  },
+  {
+    "date": "2023-05-10T18:35:29",
+    "origin_city": "City_92",
+    "destination_city": "City_85",
+    "flight_duration_secs": 4531,
+    "passengers_on_board": 216
+  },
+  {
+    "date": "2023-05-29T01:42:58",
+    "origin_city": "City_92",
+    "destination_city": "City_56",
+    "flight_duration_secs": 9866,
+    "passengers_on_board": 100
+  },
+  {
+    "date": "2023-05-20T21:46:38",
+    "origin_city": "City_92",
+    "destination_city": "City_10",
+    "flight_duration_secs": 6065,
+    "passengers_on_board": 113
+  },
+  {
+    "date": "2023-05-19T14:03:31",
+    "origin_city": "City_92",
+    "destination_city": "City_6",
+    "flight_duration_secs": 11165,
+    "passengers_on_board": 209
+  },
+  {
+    "date": "2023-05-29T05:32:53",
+    "origin_city": "City_92",
+    "destination_city": "City_108",
+    "flight_duration_secs": 7390,
+    "passengers_on_board": 130
+  },
+  {
+    "date": "2023-05-15T14:47:04",
+    "origin_city": "City_92",
+    "destination_city": "City_89",
+    "flight_duration_secs": 11686,
+    "passengers_on_board": 118
+  },
+  {
+    "date": "2023-05-24T15:29:57",
+    "origin_city": "City_92",
+    "destination_city": "City_58",
+    "flight_duration_secs": 16834,
+    "passengers_on_board": 15
+  },
+  {
+    "date": "2023-05-25T03:25:35",
+    "origin_city": "City_92",
+    "destination_city": "City_63",
+    "flight_duration_secs": 4171,
+    "passengers_on_board": 12
+  },
+  {
+    "date": "2023-05-04T14:06:17",
+    "origin_city": "City_92",
+    "destination_city": "City_71",
+    "flight_duration_secs": 7691,
+    "passengers_on_board": 205
+  },
+  {
+    "date": "2023-05-08T20:39:44",
+    "origin_city": "City_92",
+    "destination_city": "City_69",
+    "flight_duration_secs": 12068,
+    "passengers_on_board": 117
+  },
+  {
+    "date": "2023-05-26T07:04:35",
+    "origin_city": "City_92",
+    "destination_city": "City_26",
+    "flight_duration_secs": 14805,
+    "passengers_on_board": 46
+  },
+  {
+    "date": "2023-05-21T08:26:17",
+    "origin_city": "City_92",
+    "destination_city": "City_83",
+    "flight_duration_secs": 16231,
+    "passengers_on_board": null
+  },
+  {
+    "date": "2023-05-06T19:29:35",
+    "origin_city": "City_92",
+    "destination_city": "City_119",
+    "flight_duration_secs": 17468,
+    "passengers_on_board": 169
+  },
+  {
+    "date": "2023-05-04T17:52:36",
+    "origin_city": "City_92",
+    "destination_city": "City_16",
+    "flight_duration_secs": 13340,
+    "passengers_on_board": 170
+  },
+  {
+    "date": "2023-05-22T23:00:15",
+    "origin_city": "City_92",
+    "destination_city": "City_74",
+    "flight_duration_secs": 6806,
+    "passengers_on_board": 143
+  },
+  {
+    "date": "2023-05-18T17:16:53",
+    "origin_city": "City_92",
+    "destination_city": "City_7",
+    "flight_duration_secs": 12118,
+    "passengers_on_board": 98
+  },
+  {
+    "date": "2023-05-21T20:43:11",
+    "origin_city": "City_92",
+    "destination_city": "City_116",
+    "flight_duration_secs": 7179,
+    "passengers_on_board": 50
+  },
+  {
+    "date": "2023-05-25T20:27:07",
+    "origin_city": "City_92",
+    "destination_city": "City_44",
+    "flight_duration_secs": 4597,
+    "passengers_on_board": 75
+  },
+  {
+    "date": "2023-05-08T22:51:31",
+    "origin_city": "City_92",
+    "destination_city": "City_79",
+    "flight_duration_secs": 17744,
+    "passengers_on_board": 295
+  },
+  {
+    "date": "2023-05-19T19:46:03",
+    "origin_city": "City_92",
+    "destination_city": "City_60",
+    "flight_duration_secs": 15323,
+    "passengers_on_board": 17
+  },
+  {
+    "date": "2023-05-09T09:53:45",
+    "origin_city": "City_92",
+    "destination_city": "City_82",
+    "flight_duration_secs": 11577,
+    "passengers_on_board": 97
+  },
+  {
+    "date": "2023-05-13T10:19:45",
+    "origin_city": "City_92",
+    "destination_city": "City_51",
+    "flight_duration_secs": 16602,
+    "passengers_on_board": 265
+  },
+  {
+    "date": "2023-05-10T06:15:09",
+    "origin_city": "City_92",
+    "destination_city": "City_66",
+    "flight_duration_secs": 8689,
+    "passengers_on_board": 297
+  },
+  {
+    "date": "2023-05-12T14:37:31",
+    "origin_city": "City_92",
+    "destination_city": "City_46",
+    "flight_duration_secs": 3949,
+    "passengers_on_board": 137
+  },
+  {
+    "date": "2023-05-10T09:55:06",
+    "origin_city": "City_92",
+    "destination_city": "City_102",
+    "flight_duration_secs": 16856,
+    "passengers_on_board": 192
+  },
+  {
+    "date": "2023-05-11T11:19:06",
+    "origin_city": "City_92",
+    "destination_city": "City_101",
+    "flight_duration_secs": 14579,
+    "passengers_on_board": 81
+  },
+  {
+    "date": "2023-05-10T15:34:36",
+    "origin_city": "City_92",
+    "destination_city": "City_112",
+    "flight_duration_secs": 11284,
+    "passengers_on_board": 111
+  },
+  {
+    "date": "2023-05-27T15:36:06",
+    "origin_city": "City_92",
+    "destination_city": "City_111",
+    "flight_duration_secs": 7775,
+    "passengers_on_board": 228
+  },
+  {
+    "date": "2023-05-22T02:24:25",
+    "origin_city": "City_92",
+    "destination_city": "City_3",
+    "flight_duration_secs": 4031,
+    "passengers_on_board": 205
+  },
+  {
+    "date": "2023-05-21T11:52:06",
+    "origin_city": "City_92",
+    "destination_city": "City_95",
+    "flight_duration_secs": 12391,
+    "passengers_on_board": 156
+  },
+  {
+    "date": "2023-05-14T18:06:14",
+    "origin_city": "City_92",
+    "destination_city": "City_117",
+    "flight_duration_secs": 13870,
+    "passengers_on_board": 246
+  },
+  {
+    "date": "2023-05-09T03:09:18",
+    "origin_city": "City_92",
+    "destination_city": "City_29",
+    "flight_duration_secs": 4536,
+    "passengers_on_board": 263
+  },
+  {
+    "date": "2023-05-02T16:06:47",
+    "origin_city": "City_92",
+    "destination_city": "City_68",
+    "flight_duration_secs": 10832,
+    "passengers_on_board": 105
+  },
+  {
+    "date": "2023-05-16T07:33:14",
+    "origin_city": "City_92",
+    "destination_city": "City_46",
+    "flight_duration_secs": 5512,
+    "passengers_on_board": 159
+  },
+  {
+    "date": "2023-05-23T17:16:05",
+    "origin_city": "City_92",
+    "destination_city": "City_48",
+    "flight_duration_secs": 3727,
+    "passengers_on_board": 131
+  },
+  {
+    "date": "2023-05-23T13:22:12",
+    "origin_city": "City_92",
+    "destination_city": "City_104",
+    "flight_duration_secs": 6626,
+    "passengers_on_board": 272
+  },
+  {
+    "date": "2023-05-25T22:20:58",
+    "origin_city": "City_92",
+    "destination_city": "City_100",
+    "flight_duration_secs": 12123,
+    "passengers_on_board": 265
+  },
+  {
+    "date": "2023-05-22T13:15:08",
+    "origin_city": "City_92",
+    "destination_city": "City_124",
+    "flight_duration_secs": 6914,
+    "passengers_on_board": 181
+  },
+  {
+    "date": "2023-05-17T06:40:59",
+    "origin_city": "City_92",
+    "destination_city": "City_113",
+    "flight_duration_secs": 15848,
+    "passengers_on_board": 140
+  },
+  {
+    "date": "2023-05-19T16:02:35",
+    "origin_city": "City_92",
+    "destination_city": "City_119",
+    "flight_duration_secs": 16527,
+    "passengers_on_board": 263
+  },
+  {
+    "date": "2023-05-24T21:20:37",
+    "origin_city": "City_92",
+    "destination_city": "City_10",
+    "flight_duration_secs": 9592,
+    "passengers_on_board": 278
+  },
+  {
+    "date": "2023-05-21T12:50:23",
+    "origin_city": "City_92",
+    "destination_city": "City_36",
+    "flight_duration_secs": 10020,
+    "passengers_on_board": 258
+  },
+  {
+    "date": "2023-05-29T14:57:20",
+    "origin_city": "City_92",
+    "destination_city": "City_31",
+    "flight_duration_secs": 11807,
+    "passengers_on_board": 199
+  },
+  {
+    "date": "2023-05-22T15:18:29",
+    "origin_city": "City_92",
+    "destination_city": "City_16",
+    "flight_duration_secs": 11301,
+    "passengers_on_board": 173
+  },
+  {
+    "date": "2023-05-15T10:00:27",
+    "origin_city": "City_92",
+    "destination_city": "City_11",
+    "flight_duration_secs": 13412,
+    "passengers_on_board": 192
+  },
+  {
+    "date": "2023-05-02T11:55:22",
+    "origin_city": "City_92",
+    "destination_city": "City_10",
+    "flight_duration_secs": 5910,
+    "passengers_on_board": 196
+  },
+  {
+    "date": "2023-05-12T21:47:13",
+    "origin_city": "City_92",
+    "destination_city": "City_68",
+    "flight_duration_secs": 13868,
+    "passengers_on_board": 224
+  },
+  {
+    "date": "2023-05-16T18:32:47",
+    "origin_city": "City_92",
+    "destination_city": "City_104",
+    "flight_duration_secs": 17093,
+    "passengers_on_board": 150
+  },
+  {
+    "date": "2023-05-08T06:34:24",
+    "origin_city": "City_92",
+    "destination_city": "City_38",
+    "flight_duration_secs": 7427,
+    "passengers_on_board": 281
+  },
+  {
+    "date": "2023-05-11T02:31:13",
+    "origin_city": "City_92",
+    "destination_city": "City_34",
+    "flight_duration_secs": 9868,
+    "passengers_on_board": 175
+  },
+  {
+    "date": "2023-05-02T14:47:11",
+    "origin_city": "City_92",
+    "destination_city": "City_119",
+    "flight_duration_secs": 16561,
+    "passengers_on_board": 28
+  },
+  {
+    "date": "2023-05-24T22:20:38",
+    "origin_city": "City_92",
+    "destination_city": "City_72",
+    "flight_duration_secs": 4782,
+    "passengers_on_board": 201
+  },
+  {
+    "date": "2023-05-10T13:04:38",
+    "origin_city": "City_92",
+    "destination_city": "City_98",
+    "flight_duration_secs": 9714,
+    "passengers_on_board": 147
+  },
+  {
+    "date": "2023-05-08T06:51:38",
+    "origin_city": "City_92",
+    "destination_city": "City_102",
+    "flight_duration_secs": 9753,
+    "passengers_on_board": 270
+  }
+]
